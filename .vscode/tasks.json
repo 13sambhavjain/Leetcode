@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "LeetCode Submit",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/submit_prompt.sh '${file}'",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    }
+  ]
+}

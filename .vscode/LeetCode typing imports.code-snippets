@@ -1,0 +1,11 @@
+{
+  "LeetCode imports": {
+    "prefix": "lci",
+    "body": [
+      "from typing import List, Optional, Dict, Tuple",
+      "from collections import defaultdict, deque",
+      ""
+    ],
+    "description": "LeetCode common imports"
+  }
+}

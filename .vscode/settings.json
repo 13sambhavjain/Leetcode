@@ -1,0 +1,14 @@
+{
+  "leetcode.endpoint": "leetcode",
+  "leetcode.workspaceFolder": "/Users/sambhavmac/Dev/Leetcode",
+  "leetcode.defaultLanguage": "python3",
+  "leetcode.nodePath": "/Users/sambhavmac/.local/share/fnm/node-versions/v20.20.1/installation/bin/node",
+  "leetcode.filePath": {
+    "default": {
+      "folder": "${kebab-case-name}",
+      "filename": "solution.${ext}"
+    }
+  },
+  "leetcode.showDescription": "In Webview",
+  "leetcode.enableShortcuts": true
+}
