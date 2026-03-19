@@ -225,17 +225,3 @@ fi
 
 echo ""
 ```
-
----
-
-The flow is now:
-```
-1. Submit via extension
-2. Cmd+A, Cmd+C on submission tab
-3. Hit Option+Shift+S
-4. Cmd+V in terminal → Enter twice
-
-→ auto detects accepted/failed
-→ auto parses all stats
-→ warns + asks manually only if parsing fails
-→ saves + commits
